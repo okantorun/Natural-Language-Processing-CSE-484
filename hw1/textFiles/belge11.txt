@@ -1,0 +1,187 @@
+1.1. Mitoz ve Eşeysiz Üreme
+Yeni doğmuş bir bebeğin yetişkin bir insan hâline gelmesinin, yavru bir filin tonlarca
+ağırlığa ulaşmasının, küçük bir tohumun kocaman bir ağaca dönüşmesinin temelinde hücre
+bölünmesi vardır. Hücre bölünmesi ile bu canlılarda hücre sayısı artar ve canlının büyümesi
+sağlanır.
+
+Görsel 1.4. Prokaryot hücre
+
+Görsel 1.5. Ökaryot hücre
+
+Canlılar prokaryotik veya ökaryotik hücrelerden oluşur. Prokaryotik hücreler çekirdeksiz
+hücrelerdir. Hücrenin genetik materyali olan DNA bir çekirdek içinde değil, sitoplazmada
+serbest hâlde bulunur. Bu hücreler basitçe ikiye bölünerek çoğalır. Ökaryotik hücreler ise
+çekirdekli hücrelerdir. Bu hücrelerin DNA’sı zarla çevrilerek sitoplazmadan ayrılır. Bu yapıya
+çekirdek denir. Ökaryotik hücrelerde bölünme çekirdek tarafından kontrol edilir.
+
+1.1.1. Canlılarda Hücre Bölünmesinin Gerekliliği
+Hücre canlının en küçük yapı ve işlev birimidir. Bütün canlılar hücre ya da hücrelerden
+meydana gelir. Her hücre, daha önceki hücrenin bölünmesiyle oluşur. Hücre bölünmesi
+çok hücreli canlılarda büyüme ve gelişmeyi, yaraların iyileşmesini ve üreme hücrelerinin
+oluşmasını sağlarken, tek hücreli canlılarda çoğalmayı sağlar.
+Bir hücrenin bölünebilmesi için yeterli büyüklüğe ulaşması gerekir. Hücrenin büyümesi
+demek hücre zarının ve sitoplâzmanın büyümesi demektir. Sitoplazma hacimce, hücre zarı
+yüzeyce büyür. Hücrenin genel olarak küre biçiminde olduğu düşünülürse hacim, yarıçapın
+küpüyle (r3), yüzey yarıçapın karesiyle (r2) büyür. Sitoplazma hücre zarına göre daha fazla
+büyüdüğü için hücrenin hacim-yüzey oranı (r3/ r2) giderek artar.
+Bu yüzden hücre zarı besin alışverişini, atık maddelerin atılımını ve gaz alışverişini
+sağlamada zorlanmaya başlar. Çekirdek de artan sitoplazma yüzünden hücreyi yönetmekte
+güçlük çeker. Bütün bunlar çekirdekten bölünme emri verilmesine neden olur. Çekirdekten
+bölünme emri verildikten sonra hücre bölünmesi engellenemez. Bu süreç bölünmeyle
+sonuçlanır.
+
+!
+
+Hücre bölünmesinin temel nedeni, hacim yüzey oranının (r3 / r2)
+bozulmasıdır.
+
+13
+
+Biyoloji 3
+
+Görsel 1.6. Kemik iliği hücreleri
+bölünerek kan hücresi üretir.
+
+Bölünme yeteneğine sahip olan hücreler,
+organizmanın yaşamı boyunca önce büyür, sonra
+bölünür, sonra tekrar büyür ve tekrar bölünür. Örneğin
+kemik iliği hücreleri bu şekilde bölünüp sürekli olarak
+kan hücresi üretir.
+İnsan vücudunda yer alan hücrelerin bölünme
+özelliği ise farklılık gösterir. Örneğin sinir, kas ve
+alyuvar hücreleri gibi özelleşmiş bazı hücreler bölünme
+yeteneğini kaybederken, derideki epitel hücreleri, kemik
+iliğindeki hücreler, karaciğer hücreleri ve sindirim
+kanalını döşeyen epitel hücreleri bölünme yeteneklerini
+korur.
+
+1.1.2. Mitoz
+Mitoz ökaryot (çekirdekli) hücrelerde gerçekleşir. Tek hücrelilerde üremeyi; çok
+hücrelilerde doku onarımını, yenilenmeyi, büyümeyi ve gelişmeyi sağlar. Ayrıca çok hücreli
+canlıların bazıları mitozla eşeysiz ürer.
+İnterfaz
+Görsel 1.7. Hücre döngüsü
+
+Bir hücrenin bölünmeye başlamasından
+itibaren onu takip eden diğer hücre
+bölünmesine kadar geçen zaman aralığına
+hücre döngüsü denir.
+Hücre döngüsü, çok uzun süren interfaz
+evresi ile kısa bir bölünme evresinden
+(mitotik evre) oluşur.
+Bölünme evresi ise çekirdek bölünmesi
+(mitoz) ve sitoplazma bölünmesinden
+(sitokinez) meydana gelir.
+
+İnterfaz
+İnterfaz evresinde hücre, sitoplazmasını ve içeriğini
+artırarak bölünmeye hazırlanır. DNA kendini eşler ve
+genetik materyal iki katına çıkar. Böylece kalıtsal madde
+oluşacak iki yeni hücreye eşit olarak dağıtılır. RNA ve
+protein sentezi artar, bölünme için gerekli olan enzimler
+üretilir, artan enerji ihtiyacı için de ATP üretimi hızlanır.
+Ribozom, mitokondri, kloroplast ve golgi aygıtı gibi
+sitoplazmik organellerin sayısı artar. Bölünme sırasında
+iğ ipliklerini oluşturacak olan sentrozom organeli hayvan
+hücrelerinde bulunur, bazı ilkel bitkiler hariç bitki
+Görsel 1.8. İnterfaz
+hücrelerinde bulunmaz. Bu yüzden bitki hücrelerinde
+iğ ipliklerini sitoplazmik proteinler oluşturur. Hayvan hücresinde bir tane olan sentrozom
+interfaz aşamasında kendini eşleyerek sayısını ikiye çıkarır.
+
+14
+
+1. Ünite HÜCRE BÖLÜNMELERI
+
+İnterfaz evresinin sonunda her kromozom yeni oluşan
+kopyası ile birlikte iki kardeş kromatiti oluşturur. Kardeş
+kromatitler sentromer kısımlarından birbirine tutunur.
+Örnek 20 kromozomu olan bir hücrenin kaç
+kromatiti vardır?
+Çözüm Bir kromozomda 2 kromatit vardır.
+20 kromozomu olan bir hücrede
+20 x 2 = 40 kromatit bulunur.
+
+Sentromer
+
+Görsel 1.9. Kardeş kromatit
+
+İnterfaz tamamlandıktan sonra bölünme evresi (mitotik evre) başlar. Mitotik evrede önce
+çekirdek bölünmesi (mitoz) sonra sitoplazma bölünmesi (sitokinez) gerçekleşir.
+Mitoz (çekirdek bölünmesi) profaz, metafaz, anafaz ve telofaz aşamalarından oluşur.
+
+Profaz
+Mitozun ilk evresidir. İnterfaz evresinde DNA’nın
+kendini eşlemesiyle oluşan kardeş kromatitler bu evrede
+kısalıp kalınlaşarak kromozom hâlini alır. Sentrozomlar
+hücrenin zıt kutuplarına çekilerek aralarında iğ
+iplikleri oluşur. Oluşan bu iğ iplikleri kromozomlara
+tutunur. Sentozomu olmayan bitki hücrelerinde ise
+sitoplazmadaki proteinler sayesinde iğ iplikleri oluşarak
+kromozomlara tutunur. Profazın sonuna doğru çekirdek
+zarı, çekirdekçik ve endoplazmik retikulum erimeye
+başlar.
+
+Görsel 1.10. Profaz
+
+Metafaz
+Mitozun ikinci evresidir. Kromozomlar kardeş
+kromatitler hâlinde iğ ipliklerine tutunarak hücrenin
+ekvator bölgesinde düzlem üzerinde dizilir.
+Kromozomların mikroskopta en belirgin olarak
+görüldüğü evredir.
+Görsel 1.11. Metafaz
+
+15
+
+Biyoloji 3
+
+Metafaz evresinde kromozomlar tek tek sayılabilir ve
+fotoğraflanabilir. Böylece kromozomlar sayı, uzunluk,
+bantlaşma, sentromer konumu gibi özelliklerine göre
+gruplandırılarak dizilir. Bu işleme karyotip oluşturma
+denir. Karyotip oluşturularak kromozom sayısındaki
+ve kromozomlardaki anormallikler belirlenir. Örneğin;
+Down Sendromu gibi kromozom sayısına bağlı
+durumlar karyotip analizi ile tespit edilir.
+Görsel 1.12. Karyotip
+
+Örnek Mitoz geçiren bir hücrenin metafaz evresinde 32 tane kromatit tespit
+edilmiştir. Buna göre bu hücrenin kromozom sayısı kaçtır?
+Çözüm 1 kromozom = 2 kromatit olduğuna göre, 32/2 =16 kromozom bulunur.
+Anafaz
+Anafaz aşaması, genetik maddenin ikiye
+bölüştürüldüğü aşamadır. Bu evrede iğ ipliklerinin
+boyları kısalır. Böylece iğ ipliklerine sentromerlerinden
+tutulu olan kardeş kromatitler birbirinden ayrılarak zıt
+kutuplara çekilir. Kromatitler birbirinden ayrıldıktan
+sonra kromozom adını alır. Yani iğ iplikleri tarafından
+zıt kutuplara çekilen her kromatit yeni hücrenin
+kromozomu olur. Anafaz sırasında hücre hafifçe uzar.
+Anafazın sonunda hücrenin her iki kutbu da eşit
+sayıda kromozom takımına sahip olur. Kromozomların
+kutuplara ulaşmasıyla anafaz sona erer.
+
+Görsel 1.13. Anafaz
+
+Telofaz
+Mitozun dördüncü ve son evresidir. Kutuplara
+ulaşmış olan iki kromozom seti çekirdek zarı ile çevrilir,
+iğ iplikleri kaybolur, çekirdekçik görünür hâle gelir,
+kromozomlar kromatin hâlini alır.
+
+Görsel1.14. Telofaz
+
+Sitoplazma Bölünmesi (Sitokinez)
+Telofazın başlangıç aşamasında çekirdek zarının oluşması ile aynı anda sitokinez adı
+verilen sitoplazma bölünmesi başlar. Sitokinezin tamamlanması ile iki hücre meydana gelir.
+
+16
+
+1. Ünite HÜCRE BÖLÜNMELERI
+
+Sitoplazmanın bölünmesi hayvan ve bitki hücrelerinde farklı şekilde gerçekleşir.
+Hayvan hücrelerinde, ekvatoral bölgede hücre zarı bir girinti hâlinde içeriye doğru
+boğumlanmaya başlar. Bu girinti hücreyi ikiye ayırana kadar devam eder. Böylece sitoplazma
+bölünür ve iki yavru hücre oluşur. Oluşan hücreler kromozom sayısı, DNA miktarı ve genetik
+yapı bakımından birbirinin aynıdır.

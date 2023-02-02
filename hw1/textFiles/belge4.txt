@@ -1,0 +1,185 @@
+1.2.2. CANLILARIN YAPISINDA BULUNAN ORGANİK BİLEŞİKLER
+
+Görsel 1.27. Organik bileşikler canlılar tarafından sentezlenen bileşiklerdir.
+
+Organik bileşikler inorganik bileşiklerin aksine canlılar tarafından sentezlenebilen
+bileşiklerdir. Besinlerle alınan organik bileşiklerin çoğu hücre zarından geçemeyecek
+kadar büyük olduğundan sindirilerek kana geçer.
+Organik bileşiklerden karbonhidratlar ve lipitler (yağlar) hücrede enerji verici
+olarak, proteinler, lipitler ve karbonhidratlar yapıya katılarak , vitaminler ve hormonlar
+metabolizmada düzenleyici olarak görev yapar. Organik bileşiklerin yapısında genel
+olarak karbon, hidrojen ve oksijen elementleri vardır. Bazı organik bileşiklerin yapısında
+ise bu elementlere ek olarak azot, fosfor, kükürt gibi elementler yer alır.
+Canlıların yapısında bulunan organik bileşikler; karbonhidrat, protein, lipit(yağ), nükleik
+asit (DNA ve RNA), enzim, hormon, ATP ve vitamin’dir.
+1.2.2.1. Karbonhidratlar
+
+Karbonhidratlar, şekerlerin (glikoz)
+bir araya gelmesi ile oluşmuş moleküllerdir. Karbonhidratların bileşiminde Karbon(C), Hidrojen(H) ve Oksijen(O) elementleri bulunur. Karbonhidratlar enerji
+elde etmek için en hızlı şekilde kullanılan
+organik moleküldür.
+Ototrof (üretici) canlılar karbonhidratların yapı taşı olan glikozu sentezler.
+Heterotrof (tüketici) canlılar glikoz sentezleyemez, dışarıdan hazır olarak alır.
+Görsel 1.28: Ekmek, makarna, pirinç, patates ve
+tahıllar karbonhidrat yönünden zengin besinlerdir.
+
+Karbonhidratlar; hücrenin birinci derecede enerji kaynağıdır. Bir başka ifadeyle hücre
+enerji ihtiyacını karşılamak için lipit ve proteinlerden önce karbonhidratları kullanır.
+
+1.Ünite Yaşam Bilimi Biyoloji
+
+Karbonhidratlar içerdikleri şeker sayısına göre üçe ayrılır.
+a. Monosakkaritler (Tek şekerler)
+b. Disakkaritler (İkili şekerler)
+c. Polisakkaritler (Çoklu şekerler)
+a. Monosakkaritler
+Karbonhidratların en küçük birimidir. Bu yüzden sindirilmezler. Monosakkaritler
+içerdikleri karbon(C) sayısına göre sınıflandırılır. İçeriğinde 3 adet C bulunduran
+monosakkaritlere trioz, 5 adet C bulunduranlara pentoz, 6 adet C bulunduranlara heksoz
+
+Triozlara örnek; gliseraldehit.
+Pentozlara örnek; riboz ve deoksiriboz.
+Heksozlara örnek; glikoz (üzüm şekeri), früktoz (meyve şekeri) ve galaktoz (süt
+şekeri).
+Glikoz biyolojik olarak en önemli monosakkarittir.
+Hücre zarının yapısında bulunur, solunumla
+su ve karbondiokside kadar parçalanır. Bu
+sırada enerji meydana gelir. Bu enerji canlıların
+kullandığı enerjinin kaynağıdır. Fazla glikoz yağa
+dönüştürülüp depolanarak şişmanlığa (obezite)
+neden olur.
+Görsel 1.29. Üzüm bol miktarda
+glikoz içerir.
+
+b. Disakkaritler
+İki monosakkaritin birleşmesi ile disakkaritler oluşur. Bu sırada su çıkışı olur. Bu yüzden
+bu olay dehidrasyon tepkimesi olarak adlandırılır. Dehidrasyon bir anabolik (yapım)
+reaksiyondur.Bu reaksiyon genel olarak aşağıdaki gibi gösterilir:
+Monosakkarit
+
++
+
+Monosakkarit
+
+Disakkarit
+
++
+
+Su
+
+Görsel1.30. Disakkaritlerin oluşum tepkimesi
+Dehidrasyon
+Glikoz
+
++
+
+Glikoz
+
+Hidroliz
+
+Maltoz
+
++
+
+H 2O
+
++
+
+H 2O
+
++
+
+H 2O
+
+(Arpa şekeri)
+
+Dehidrasyon
+Glikoz
+
+Glikoz
+
++
+
++
+
+Fruktoz
+
+Sükroz
+Hidroliz
+Dehidrasyon
+
+Galaktoz
+
+Hidroliz
+
+(Çay şekeri)
+Laktoz
+(Süt şekeri)
+
+Görsel 1.31. Maltoz, Sükroz ve Laktoz oluşum tepkimeleri
+
+Maltoz ve sükroz bitki hücrelerinde, laktoz ise bazı hayvan hücrelerinde
+sentezlenir.
+
+19
+
+Biyoloji 1
+
+20
+
+Büyük moleküllü maddeler yapı taşlarına ayrılırken su kullanılır. Bu olaya hidroliz
+denir. Hidroliz olayı denklemlerde de görüldüğü gibi dehidrasyon sentezinin tam tersidir.
+Disakkaritlerin hidroliz tepkimesiyle monosakkaritlere kadar yıkılması katabolik (yıkım) bir
+reaksiyondur.
+c. Polisakkaritler
+Çok sayıda glikozun birleşmesi ile oluşur. Glikozlar birbirine glikozit bağı ile bağlanır.
+Bu sırada monosakkarit sayısının bir eksiği kadar su molekülü açığa çıkar. Bu durum
+aşağıda verilen denklemdeki gibi gösterilir:
+(n) Monosakkarit
+
+Polisakkarit + (n-1) Su
+
+Görsel 1.32. Polisakkaritlerin oluşum tepkimesi
+
+Nişasta, selüloz, glikojen ve kitin olmak üzere dört çeşit polisakkarit vardır. Nişasta
+ve selüloz bitkisel, glikojen ve kitin hayvansal polisakkarittir. Selüloz ve kitin hücre yapısına
+katılırken, nişasta ve glikojen hücrede depo edilir.
+Bitkisel
+
+Hayvansal
+
+Yapıya Katılan
+
+Selüloz
+
+Kitin
+
+Depo Edilen
+
+Nişasta
+
+Glikojen
+
+Görsel 1.33. Polisakkaritler tablodaki gibi gruplandırılır.
+
+Nişasta
+Bitkiler ürettikleri glikozun fazlasını
+nişastaya dönüştürerek kök, gövde,
+yaprak, meyve, tohum gibi organlarında
+depolar. Patates, pirinç, arpa, buğday,
+yulaf gibi besinlerde bol miktarda nişasta
+vardır. Hayvanlar nişasta üretemez ancak
+nişasta açısından zengin bitkileri yiyerek
+nişasta alır.
+Görsel 1.34. Patates nişasta yönünden zengin bir
+bitkidir.
+
+Selüloz
+Bitkisel ve yapısal bir polisakkarit olan selüloz bitki hücrelerini çevreleyen duvarın
+temel bileşenidir. Çok sayıda glikozun birleşmesiyle oluşur. Selüloz suda çözünmez.
+Otçul hayvanlar, bağırsaklarında yaşayan bakteriler sayesinde selülozu sindirebilirken
+insanlar, selülozu sindiremez. İnsanlar selülozu sindiremese de sindirim kanalından geçen
+selüloz mukus salgılanmasını uyararak besinlerin kolayca ilerlemesini sağladığı için bolca
+tüketilmelidir. Taze meyve, sebze ve tahıllar selüloz açısından zengin besinlerdir.
+Mukus hücreleri tarafından salgılanan koyu kıvamda yapışkan sıvıya mukus denir.
+

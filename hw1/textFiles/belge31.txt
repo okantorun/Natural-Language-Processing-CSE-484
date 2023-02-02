@@ -1,0 +1,204 @@
+Hazırlık Çalışması
+1. Nüfus sayımlarına neden ihtiyaç duyulmuştur?
+2. Tarihte ilk nüfus sayımı yapan millet kimlerdir ?
+3. Nüfus hareketleri deyince aklınıza neler geliyor ?
+
+1.1 Nüfusun Özellikleri ve Önemi
+Nüfus, sınırları kesin olarak bilinen bir alan üzerinde ve belli bir zaman diliminde
+yaşayan insan sayısının genel toplamına denir. Modern anlamda ilk nüfusu sayımları
+1750 yılında İskandinav ülkelerinde yapılmıştır. Nüfus verileri, sayısal bir tabana
+yayıldığı için dinamik özellik gösterir. Her an değişen durağan olmayan bu yapıyı
+bilmek günümüzde dünya ülkeleri için artık bir zorunluluk hâline gelmiştir. Başka
+bir açıdan ele alındığında nüfus, ülkeler için hem doğal bir kaynak hem de bazı çevre
+sorunlarının yaşanmasına neden olan önemli bir unsurdur.
+Bir nüfus sayımı ile elde edilecek veriler şunlardır:
+ Toplam nüfus miktarı,
+ Nüfusun ülke geneline olan yayılışı,
+ Nüfusun yaş gruplarına göre dağılışı,
+ Cinsiyet yapısı,
+ Eğitim durumu,
+ Sektörel dağılım,
+ Bir önceki yıla göre olan artış oranı,
+ Kır kent nüfusu,
+ Nüfus hareketleri (göç) dir.
+Geçmişte ülkeler nüfusunun fazla olmasını bir güç olarak görmekteydi hatta güçlü devlet demek insan sayısının fazla olduğu devlet demekti ancak günümüzde artık
+nüfusun sayısal çokluğu değil nitelik yönünden kaliteli olması önem taşımaktadır. Bir
+devletin ekonomik bakımdan kalkınması, güçlenmesi için elbette eğitimli nüfusa ihtiyacı vardır çünkü sahip olduğu nüfusun niteliği aynı zamanda ülkenin kalkınma hızını
+belirler. Bu yönüyle nüfus devletleri oluşturan temel unsurdur, diyebiliriz. Devletler bu
+temel unsur üzerine çeşitli politikalar üretir ve bunların bir kısmını hayata geçirir. Nüfus alanında yapılan bu çalışmalara nüfus politikaları adı verilir. Her ülke kendi sosyal
+ve ekonomik koşullarını göz önünde bulundurarak farklı nüfus politikası üretir.
+10
+
+Coğrafya 4
+
+Dünya'da Nüfus ve Göç
+
+1. Bölüm
+
+1.1.1. Nüfus Artış ve Azalışının Olumlu Olumsuz Etkileri
+Ülke adı
+
+Toplam Nüfusu
+
+Artış oranı
+
+Çin
+Hindistan
+ABD
+Endonezya
+Brezilya
+Pakistan
+Nijerya
+
+1.402.521.745
+1.380.801.621
+329.530.349
+273.538.100
+212.647.920
+220.916.254
+206.184.145
+Tablo 1.1 Dünya Nüfus Artış Tablosu
+
+%0.3
+%1.0
+%0.4
+%1.1
+%0.7
+%2.2
+%2.5
+
+Dünya genelinde nüfus artış hızı homojen bir yapıya da sahip değildir. Bazı bölgelerde nüfus artış hızı fazla bazı bölgelerde ise azdır. Oransal olarak bakıldığında dünya
+nüfusu her yıl % 1,7 artış göstermektedir. Bu artış oranı aynı zamanda toplam nüfusa
+97 milyon insanın eklenmesi demektir. Bu rakam bize dünya genelinde artış hızının
+yüksek olduğunu ifade eder. Doğal olarak artış hızının yüksekliği bazı sosyal ve ekonomik sorunları da beraberinde getirir.
+Nüfus artış hızının fazla olduğu yerlerde iklim koşullarının uygunluğu, verimli
+tarım alanlarının varlığı ve bol su kaynaklarının olması gibi cazip unsurların varlığı
+insanların yaşam tarzına doğrudan etki eder. Bu sayılanların dışında transit yolların
+etrafı, maden yataklarının olduğu yerler, sanayinin geliştiği bölgeler ve turistik sahalar
+da nüfusun yoğun olduğu yerlerdir.
+Örneğin Avrupa'daki nüfus yoğunluğunun temel sebebi ağır sanayinin özellikle kıtanın batı tarafında gelişmiş olmasına bağlıdır. Önceleri küçük bir kasaba olan Almanya'nın Ruhn Havzası, kömür yataklarının işletilmeye başlamasıyla giderek şehirleşmiş
+ve nüfusu artmıştır. Ekonomik kalkınmanın hızlanmasına bağlı olarak Ruhn şehrinde
+kişi başına düşen millî gelir payı zamanla yükselmiştir.
+Nüfus artışının hızlı olmasının olumlu ve olumsuz sonuçları aşağıdaki tabloda gösterilmiştir.
+Olumlu yönleri
+Vergi gelirlerinin artması
+İş gücü
+Yeni yatırım alanlarının açılması
+Askerî güç
+Tüketici sayısının artması
+
+Olumsuz yönleri
+İş olanaklarının azlığı
+Yatırımların daha çok nüfusa yönelik olması
+Hizmet sektöründe yetersizliklerin yaşanması
+Ortalama ömrün kısa olması
+Çevre ve trafik sorunları
+Çarpık kentleşme
+
+Tablo 1. 2 Nüfus Artışının Olumlu Olumsuz Yönleri
+
+Coğrafya 4
+
+11
+
+Dünya'da Nüfus ve Göç
+
+1. Bölüm
+
+Nüfus artış hızının sonuçlarına dünyadan ve
+Türkiye'den örnekler vererek açıklayabiliriz. Çin,
+Hindistan gibi ülkelerde nüfus artış oranı yüksektir. Bu ülkelerde genç nüfus oranı fazla olduğu için nüfusa bağlı yatırımların oranı da artar.
+Başka alanlara yapılacak yatırımların az olması
+ekonomik kalkınma hızını düşürür. Eğitim, sağlık, ulaşım gibi hizmet sektörü yeterince gelişemez.
+
+Görsel 1.1: Çin'de Eğitim
+
+Çin'in son yıllarda genç nüfusunu ucuz iş gücü
+olarak görmesi yabancı sermayenin ülkeye akmasını sağlamıştır. Yatırımcı sayısının artmasıyla da Çin ekonomik anlamda bir dünya devi hâline gelmiştir.
+
+Görsel 1. 2 Çin'de iş gücü
+
+İngiltere, Almanya, Fransa gibi gelişmiş Avrupa ülkelerinde nüfus artış oranı durma noktasına gelmiştir ve özellikle genç nüfus sayısı azdır.
+Bu tip ülkelerde hizmet sektörü gelişmiş ve
+çevre sorunları en aza inmiştir. Okullar ve hastaneler modern yapıda olup teknolojik yenilikler yakından takip edilmektedir. Bütçeden diğer
+alanlara yatırım için ayrılan pay oranı fazladır.
+
+Görsel 1. 3 Avrupa'da yapılan ders
+örneği
+
+Ekonomik seviyenin yüksek olduğu bu ülkelerde
+genç nüfusun az olması, iş gücüne duyulan ihtiyacın her geçen gün artmasına neden
+olmuştur.
+
+1.1.2. Nitelikli Genç Nüfusun Ülke Kalkınmasındaki Önemi
+Toplam nüfusun içinde 15-24 yaş aralığında bulunan nüfusa, genç nüfus denir. Yaş
+aralığı olarak bakıldığında bu nüfus daha çok nitelik yönünden geliştirilmesi gereken
+nüfustur. Genç nüfusa çeşitli alanlarda eğitimler verilerek onlara yeni beceriler kazandırmalı ve onları hayata hazırlamalıdır. Türkiye TÜİK verilerine göre 2021
+yılında toplam nüfusun %15,3'i genç nüfustan oluşur.
+12
+
+Coğrafya 4
+
+Dünya'da Nüfus ve Göç
+
+1. Bölüm
+
+GENÇ NÜFUS 1935-2075 arası
+
+Yıllar
+Kaynak: TUİK Genel Nüfus Sayımları, 1935-1990 Nüfus Tahminleri 200-2007, Adrese Dayalı Nüfus Kayıt Sistemi, 2008-2014 Nüfus Projeksiyonları 2023-2075
+
+Yukarıda gösterilen, grafiğin verilerine baktığımızda 2000-2023 yılları arasında
+genç nüfusta önemli bir azalış görülmeyeceği fakat 2023-2075 yılları arasında giderek
+azalacağını bu grafikten çıkan en önemli sonuçtur. Yine 2021 yılı verilerine göre
+çalışma hayatındaki genç nüfusun % 55,3'ü hizmet sektöründe yer alırken % 17,2'si
+tarım, % 21,3'ü sanayi, %6,2'si inşaat sektöründe yer almaktadır.
+Gelişmiş ülkeler de genç nüfusun toplam nüfus içindeki oranı daha düşük olduğu
+için bu ülkelerde bütçeden eğitime ayrılan pay ve okullaşma oranı yüksektir.
+Bir ülkenin genç ve dinamik nüfusa sahip olmasının sağladığı faydaları şöyle sıralayabiliriz:
+ Ülkede üretim artar.
+ Genç nüfusun ihtiyaçları daha çok olduğundan mal ve hizmetlere talep artar ve
+bu durum, ekonomik canlılığı beraberinde getirir.
+ Ekonomik canlılığa bağlı olarak devletin vergi gelirleri yükselir.
+ Genç nüfusta teknolojik üretkenliğe olan yatkınlık yeni iş alanlarını ortaya çıkarır.
+ Sanayide kâr oranı artar. Üretimde verimliliğin artması ihracatta rekabeti de
+kolaylaştırır.
+
+Coğrafya 4
+
+13
+
+Dünya'da Nüfus ve Göç
+
+1. Bölüm
+
+1.1.3. Nüfus Artış Hızının Kalkınmadaki Yeri ve Önemi
+Ülkeler izledikleri nüfus politikalarına paralel olarak
+kalkınma planlarındaki yatırımlarını ana hatlarıyla
+ortaya koyarlar. Yapılan nüfus sayımları ile vergi
+yükümlüleri, askerlik çağı gelenler, nüfusun eğitim
+ve yaş durumu, gelir dağılımı ve nüfusun artış azalış
+oranları gibi önemli verilere ulaşılır. Kalkınma
+Görsel 1. 4 Amsterdam (Hollanda) planlarının yapılıp uygulanması için ülkede var olan
+
+insan sayısının ve bu insanların temel ihtiyaçlarının
+neler olduğunun bilinmesi gerekir eğer kalkınma planında nüfusun nicelik ve nitelik
+özellikleri dikkate alınmazsa o kalkınma planı hedeflenen başarıyı yakalayamaz.
+Nüfusun kalabalık olduğu ülkelerde en büyük sorunun işsizlik, çevre sorunları ve
+geri kalmışlık olduğu görülür. Bu ülkelerde hizmet sektörü ve sanayi faaliyetlerinin
+oldukça geri planda kaldığı da gözlemlenir. Afrika ülkelerine baktığımızda ise
+karşımız çıkan manzara yukarıda bahsedilen duruma bir örnektir.
+Buna karşılık nüfusun beklenilenin altında bir atış
+göstermesi de farklı sorunları gündeme getirir. O zamanda ülkede aktif nüfus azalır, yaşlı nüfus artar. Nüfus artışı az olan ülkelerde kişi başına düşen millî gelir
+payı fazladır. Bu ülkelerde kalkınma hızları yüksektir.
+Nüfusa bağlı olan yatırımlar az yer kaplarken beraberinde sanayileşme ve hizmet sektöründe büyümeler Görsel 1.5 Kerma Şehri (Sudan)
+çok görülür. Bu ülkelerde mevcut nüfusun iyileştirilmesi daha rahat bir yaşam sürmesi için çeşitli ekonomik ve sosyal yatırım projelerine yer verilir.
+
+1.2 Dünya Nüfusunun Tarihsel Süreçteki Değişimi
+Bugün dünya nüfus verilerine bakıldığında toplam 7.950.077.036 (2021) kişi olduğu görülmektedir ancak dünya nüfusunu tam olarak sayısal verilere dökmek geçmişte
+olduğu gibi bugün de oldukça güçtür. Dünyanın her yerinde aynı anda nüfusu saymak
+ve veri hazırlamak oldukça zordur.
+Günümüzden on bin yıl önce dünya nüfusunun toplamı bir milyonu geçmezken
+bugün artan bir seyir izlemektedir. İnsanlık tarihi boyunca dünya nüfusunda üç
+önemli sıçrama gerçekleşmiştir.
+1. Sıçrama: En uzun dönem olarak bilinen birinci zaman (Paleolitik) aynı zamanda

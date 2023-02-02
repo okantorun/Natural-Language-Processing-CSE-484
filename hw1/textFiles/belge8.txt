@@ -1,0 +1,182 @@
+CANLILAR ÂLEMİ
+
+Bakteriler
+Arkeler
+Protistler
+Mantarlar
+Bitkiler
+
+Âlem
+
+Hayvanlar
+
+PROKARYOT
+
+ÖKARYOT
+
+Bakteriler
+Arkeler
+
+Protistler
+Mantarlar
+Bitkiler
+Hayvanlar
+
+Biyoloji 2
+
+18
+
+2.1.1 BAKTERİLER
+Bakteriler, yeryüzünde 3,5 milyar yıldır bulunan ve tanımlanmış yaklaşık 5.000 türden
+oluşan geniş bir âlemdir. Bakteriler yeryüzünde çok geniş bir yayılma alanına sahip olan
+organizmalardır. Toprağın beş metre derinliklerine kadar olan kısımlarda, tatlı ve tuzlu sularda, bitki ve hayvan ölüleri üzerinde ve canlı
+vücutlarında çok sayıda bakteri yaşar.
+Bakterilerin Genel Özellikleri
+
+Görsel 1.6. Bakteriler
+
+
+
+Bakteriler, prokaryot hücre yapısına sahip tek hücreli organizmalardır.
+Bakteriler “n” kromozomludurlar.
+Hücre zarı üzerinde hücre duvarı bulunur. Hücre duvarı peptidoglikan denilen
+bir maddeden oluşmaktadır.
+Bazı bakterilerin hücre duvarının üzerinde kapsül bulunur. Bu yapı bakterinin
+daha dirençli olmasını sağlar. Kapsül hastalık yapan bakterilerde daha çok
+görülür.
+Bakterilerin birbirine ve yüzeylere tutunmasını sağlayan pilus denilen kısa
+uzantılar bulunur. Piluslar iki bakteri arasında gen aktarımında da görev yaparlar.
+Bazı bakterilerde kamçı bulunur. Kamçılar bakterinin aktif hareket etmesini
+sağlar. Kamçı bulundurmayan bakteriler ise pasif hareket eder.
+Depo karbonhidatları glikojendir.
+Sitoplazmaları içinde DNA, RNA, ribozomlar, glikojen, protein, yağ damlacıkları ve
+su bulunur.
+Bakteri DNA’sı halkasal yapıdadır.
+Bazı bakterilerde hücre DNA’sından bağımsız olarak küçük ve halkasal DNA
+parçacıkları bulunur. Bunlara plazmit denir. Plazmitler, bazı genetik özelliklerin
+aktarımını sağlar. Plazmitler bakterinin antibiyotik ve bazı kimyasallara karşı
+dirençli olmasını sağlayan genler içerir.
+Plazmitler hücre DNA’sından bağımsız olarak eşlenmekte ve konjugasyonla diğer
+hücrelere aktarılabilmektedir.
+
+DNA
+
+Plazmit
+
+Ribozom
+Pilus
+
+Kapsül
+Hücre duvarı
+Hücre zarı
+Sitoplazma
+Kamçı
+Görsel 1.7. Bakterinin genel yapısı
+
+1. Ünite Canlılar Dünyası
+
+•
+
+19
+
+Bazı bakteriler uygun olmayan çevre koşullarında hayatta kalabilmek
+için endospor oluştururlar. DNA’nın çevresi ve bir miktar sitoplazma
+kalın bir duvar ile çevrilir. Bu oluşan yapıya endospor denir.
+
+Endosporda; metabolizma hızı düşüktür.
+Endospor olumsuz yaşam koşullarına dayanıklıdır.
+Ortam koşulları tekrar uygun hale geldiğinde, endospor gelişerek normal bir bakteri hücresini oluşturur.
+Endospor bir üreme şekli değildir.
+
+Küre
+Çubuk
+
+Spiral
+
+Virgül
+
+Görsel 1.8. Bakteriler farklı şekillere sahiptir.
+
+•
+•
+
+Bakteriler bölünme ile eşeysiz olarak ürerler.
+İçerisinde besin elementleri bulunan kültür ortamında bakteriler
+yaklaşık her 20 dakikada bir bölünebilir.
+
+Yeni
+Hücre
+
+Görsel 1.10. Bakteriler,
+uygun ortam şartlarında
+bölünerek çoğalırlar.
+
+Bakteri
+DNA’sı
+
+Eşlenmiş
+DNA
+
+Yeni
+Hücre
+
+Biyoloji 2
+
+20
+
+• Aynı tür iki bakteri arasında pilus yardımı
+
+
+
+Halkasal
+DNA
+
+F Plazmidi
+
+Halkasal
+DNA
+
+ile geçici bir sitoplazmik köprü kurulur. Bu
+köprü kullanılarak bir bakteride bulunan
+Pilus
+plazmit DNA’sı diğer bakteriye aktarılır. Bu
++
+FF
+olaya konjugasyon denir. Konjugasyonla
+genetik çeşitlilik sağlanır.
+Oksijenli solunum yapan bakterilerde
+F+
+Fhücre zarının hücre içine kıvrım
+yapmasıyla oluşmuş mezozom denilen
+yapılar bulunur. Mezozomlar ökaryot
+F+
+Fhücrelerdeki mitokondrinin görevini yapar.
+Ototrof ya da heterotrof olarak beslenirler.
+Pilus
+Ototrof bakteriler, fotosentez ya da
+F+
+F+
+Pilus
+kemosentezle besinlerini üretirler.
+Görsel
+1.11.
+Bakterilerde
+konjugasyonla
+Siyanobakteriler gibi fotosentez yapan
+bakterilerin
+sitoplazmasında
+klorofil genetik çeşitlilik sağlanır.
+bulunur.
+Heterotrof bakteriler parazit ya da saprofit (çürükçül) yaşarlar. Saprofit bakteriler;
+hücre dışına salgıladıkları enzimlerle ölü ve artık maddeleri parçalayarak beslenirler.
+Böylece madde döngüsüne de katkı sağlarlar. Ayrıca biyolojik gübre oluştururlar.
+Saprofit bakteriler yararlı bakterilerdir.
+Parazit yaşayan bakteriler, besinlerini üzerinde yaşadıkları canlıdan elde ederler.
+Bazıları hastalık yapar. Hastalık yapan bakterilere patojen denir. Patojen bakteriler
+canlılarda hastalık oluştururlar. İnsanlarda; neden oldukları enfeksiyonlar arasında
+tetanoz, tifo, tifüs, difteri, frengi, kolera gibi hastalıklar sayılabilir. Parazit bakteriler
+zararlı bakterilerdir.
+İnsanların bağırsağında yaşayan yararlı bakteriler B ve K vitamini üretirler.
+Bakteriyel enfeksiyonlar antibiyotikle tedavi edilebilirler. Antibiyotikler; insanlarda,
+hayvanlarda ve bitkilerde ortaya çıkan enfeksiyonları tedavi etmek amacıyla
+bakterileri öldürmek veya çoğalmasını durdurmak için üretilen ilaçlardır.

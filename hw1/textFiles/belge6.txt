@@ -1,0 +1,225 @@
+Hücre yapısı ve sayısı
+Embriyonik gelişimler
+Embriyonik tabakalar
+DNA benzerliği (protein benzerliği)
+Köken (orjin) benzerliği
+Homolog organ
+Anatomi ve fizyolojik yapı
+Beslenme şekli
+Boşaltım artığı benzerliği
+Vücut simetrisi
+Üreme özellikleri
+
+Homolog (Görevdeş) organ: Embriyonik gelişim sırasında aynı hücre gruplarından
+farklılaşarak gelişen (kökenleri aynı olan) dolayısıyla da yapıları birbirine çok benzeyen fakat
+görevleri farklı olabilen organlardır. Örneğin; İnsan kolu, balina yüzgeci ve yarasa kanadı.
+Bu organların görevleri farklı, kökenleri aynıdır. İnsan kolu tutma ve kavrama, balina yüzgeci
+yüzme ve yarasa kanadı uçmayı sağlar. Ancak bu üç organ iskeleti aynı elemanlardan
+oluşmuştur.
+Balina
+
+At
+
+Aslan
+
+İnsan
+
+Görsel 1.2. Yukarıda çeşitli canlılara ait homolog
+organların iskelet yapısı gösterilmiştir.
+
+1. Ünite Canlılar Dünyası
+
+11
+
+Örnek Soru:
+Filogenetik
+(doğal)
+yapılırken canlıların,
+
+sınıflandırma
+
+I.Kalıtsal akrabalıklar
+II.Homolog organlar
+III.Kromozom sayısı
+gibi özelliklerden
+alınır?
+A) Yalnız I
+C) I ve II
+
+hangileri
+
+dikkate
+
+Çözüm:
+Filogenetik (doğal) sınıflandırma
+yapılırken kalıtsal akrabalıklar ve
+homolog organlar dikkate alınır. Ancak
+doğada kromozom sayısı aynı olan farklı
+tür canlılar bulunduğu için kromozom
+sayısı dikkate alınmaz.
+Cevap: C
+
+B) Yalnız II
+D) I, II ve III
+
+Örnek Soru:
+Amprik (yapay) sınıflandırma yapılırken
+canlıların,
+I. Kökendeş organ
+II. Görevdeş organ
+III. Yaşadıkları çevre
+IV. Beslenme şekli
+benzerliklerinden
+hangisi
+hangileri dikkate alınmıştır?
+A) Yalnız I
+C) II ve III
+
+ya
+
+da
+
+B) I ve II
+D) I, II, III ve IV
+
+Çözüm:
+Amprik sınıflandırma; canlıların
+yaşadıkları yer, dış görünüş ve analog
+(görevdeş) organlara bakılarak yapılan
+sınıflandırmadır.
+Filogenetik (doğal) sınıflandırmada
+homolog (kökendeş) organ ve beslenme
+şekli dikkate alınır.
+Cevap: C
+
+Örnek Soru:
+Aynı hücre gruplarından farklılaşarak
+gelişen organlara homolog organ
+denir. Yapıları birbirine çok benzeyen
+bu organların görevleri aynı veya farklı
+olabilir.
+Buna göre;
+I. Bal arısı kanadı
+II. Yunus yüzgeci
+III. İnsan kolu
+IV. Balina yüzgeci
+yapılarından homolog organ olanlar
+aşağıdakilerden hangisinde verilmiştir?
+A) I ve II
+B) I ve III
+C) II ve IV
+D) II, III ve IV
+
+Çözüm:
+İnsan kolu tutma ve kavramayı sağlar,
+balina ve yunus yüzgeci ise yüzmeyi
+sağlar. İnsan kolu ile yüzgeçlerin görevleri
+farklıdır. Ancak balina ve yunusta bulunan
+yüzgeçlerin görevleri aynıdır.
+İnsan kolu, balina ve yunus yüzgeci
+iskeleti incelendiğinde aynı elemanlardan
+oluştuğu görülür. Yani kökenleri aynıdır.
+Cevap: D
+
+Biyoloji 2
+
+12
+
+1.2. SINIFLANDIRMA BASAMAKLARI VE İKİLİ ADLANDIRMA
+17. yüzyılda John Ray (Can Rey) bitkileri araştırmış ve tohum yapılarına göre bitkileri
+sınıflandırmıştır. John Ray 1686 yılında yazdığı “Bitkiler Tarihi” adlı kitabında tür kavramını
+açıklamış ve kullanmıştır.
+18. yüzyılda İsveçli botanikçi Carl Linnaeus’un (Karl Linne) (1707-1778) oluşturduğu
+sınıflandırma günümüzde kullanılan sınıflandırmanın temelini oluşturmaktadır.
+Ayrıca Linnaeus, Ray’in yaptığı tür gruplarını kullanmıştır.
+Linnaeus, canlıların isimlendirilmesinde; karışıklığı önlemek, tekrardan kaçınmak
+ve canlılar arasındaki yakınlık derecesini gösterecek iki kelimeden oluşan isimlendirme
+yöntemi olan ikili adlandırma (Binominal Nomenclature) sistemini kurmuştur. Bu
+isimlendirme şekli ilk defa “Doğa Sistemi “adlı eserinde yayınlanmış ve bilim insanları ile
+paylaşılmıştır.
+Canlıların adlandırılmasında tür esas olarak alınmıştır.
+Tür; ortak atadan gelen, yapı ve görev bakımından benzer özelliklere sahip,
+çiftleştiklerinde verimli (kısır olmayan) yavrular oluşturan bireyler topluluğudur.
+İkili adlandırmada ilk ad türün ait olduğu
+cinsi ifade eder ve ilk harfi büyük yazılır.
+İkinci ad tamamlayıcı ad olarak kullanılır
+ve küçük harfle yazılır. İkisi birlikte tür adını
+oluşturur. Tür adları latincedir ve yazılırken
+eğik yazı karakteri kullanılır.
+Felis domesticus (Felis domestikus)
+kedinin, Felis leo (Felis leo) aslanın, Canis
+familiaris (Kanis familiyaris) köpeğin, Pinus
+nigra (pinus nigra) kara çamın, Homo
+sapiens (homo sapiens) insanın bilimsel
+adıdır.
+
+Görsel 1.3.
+At ve eşeğin
+çiftleşmesiyle
+oluşan katır kısır
+olduğu için tür
+sayılmamaktadır.
+
+Canlılar arasındaki akrabalık derecesi birinci isme (cins adı) bakılarak belirlenebilir. İkinci isim
+(tamamlayıcı ad) akrabalık derecesi ile ilgili bir anlam taşımaz.
+
+Salmo trutta
+
+Aptenodytes patagonica
+Görsel 1.4. İkili
+
+Adlandırma
+
+Clostridium tetani
+
+Matricaria cahamomilla
+
+SIRA SIZDE: Canlılar dünyası ile ilgili çektiğiniz veya edindiğiniz fotoğraflardan albüm veya video
+hazırlayınız. Hazırladığınız bu ürünü aileniz ile paylaşabilirsiniz.
+
+1. Ünite Canlılar Dünyası
+
+13
+
+Görsel 1.5. İkili adlandırma
+
+Fıstık çamı
+
+Aslan
+
+Felis leo
+
+Pinus pinea
+
+Cins adı Tamamlayıcı ad
+
+Cins adı Tamamlayıcı ad
+
+Tür adı
+
+Tür adı
+
+Örnek Soru:
+
+Çözüm:
+
+Canlıların
+bilimsel
+olarak
+adlandırılmasında
+kullanılan
+yönteme göre;
+I. Capra domesticus
+II. Felis domesticus
+III. Canis lupus
+IV. Felis leo
+olarak adlandırılan canlıların
+cins ve tür adlarına bakarak,
+hangilerinin
+birbirleriyle
+daha yakın akraba olduğu
+düşünülebilir?
+
+Canlılar arasındaki akrabalık
+derecesi birinci isme (cins adı)
+bakılarak belirlenebilir.

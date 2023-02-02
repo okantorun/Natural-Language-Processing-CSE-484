@@ -1,0 +1,180 @@
+Görsel 1.15. Hayvan hücresinde sitoplazma bölünmesi
+
+Bitki hücrelerinde hücre çeperi bulunduğundan hayvan hücrelerinde olduğu gibi hücre
+zarı boğumlanamaz. Bu yüzden bitki hücrelerinde sitokinez sırasında golgi aygıtından
+kopan kesecikler hücrenin ortasında hücre plağı (orta lamel) oluşturur. Hücre plağı hücre
+zarıyla kaynaşıncaya kadar büyümeye devam eder. Hücre zarıyla kaynaşır kaynaşmaz bitki
+hücresi iki yavru hücreye bölünmüş olur. Böylece ana hücre ile kromozom sayısı ve genetik
+yapısı aynı olan iki yeni hücre oluşur.
+
+Orta lamel
+
+Görsel 1.16. Bitki hücresinde sitoplazma bölünmesi
+
+Mitoz sonucunda bir ana hücreden, bu hücreyle aynı özellikleri taşıyan iki yavru hücre
+meydana gelir. Mitoz sonucu oluşan hücrelerin kromozom sayısı ve genetik yapısı ana
+hücreyle aynıdır.
+
+17
+
+Biyoloji 3
+
+Örnek 20 kromozomlu bir hücrenin arka arkaya üç kez mitoz geçirmesi sonucu
+toplam kaç hücre oluşur ve oluşan hücreler kaç kromozomludur?
+Çözüm Mitoz sonucu oluşan hücre sayısını bulmak için 2ⁿ formülünden yararlanılır.
+“n” ile ifade edilen mitoz bölünme sayısıdır. Mitoz bölünme sayısı soruda 3
+olarak verilmiştir. Buna göre; 2ⁿ = 23 = 2.2.2 = 8 hücre oluşur. Mitoz
+sonucu oluşan hücrelerin kromozom sayısı değişmediği için oluşan
+hücrelerin kromozom sayısı 20’dir.
+Uygulama Şekilde mitoz’un evereleri verilmiştir. Bu evrelerin meydana geliş sırasına
+göre dizilimi nasıldır?
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+Çözüm I nolu evre Profaz’ın sonlarını göstermekte.
+II nolu evre Profaz’ın başlarını göstermekte.
+III nolu evre Telofaz’ı göstermekte.
+IV nolu evre Metafaz’ı göstermekte.
+V nolu evre Anafaz’ı göstermekte.
+Mitoz’un evreleri gerçekleşme sırasına göre; Profaz, Metafaz, Anafaz ve
+Telofaz’dır. Buna göre şekilde verilen evrelerin dizilimi II-I-IV-V-III
+şeklindedir.
+Hücre Bölünmesinin Kontrolü ve Kanserle İlişkisi
+Hücre döngüsünün, belirli bazı kontrol noktaları ve
+kontrol sistemleri vardır. Bu sistemler hücrede döngüsel
+olarak işlev gören bazı molekül grupları ile çalışır. Bu
+molekül grupları hem hücre döngüsündeki kritik olayları
+harekete geçirir hem de döngüdeki olayların eşgüdümlü
+olarak gerçekleşmesini sağlar. Çeşitli nedenlerle bu
+kontrol ortadan kalkarsa hücreler kontrolsüz olarak
+bölünüp çoğalır. Bu da tümör oluşumuna ve kanser
+hastalığına neden olur.
+Görsel 1.17. Kanser kontrolsüz
+Yapılan çalışmalarda sağlıklı bir hücrenin laboratuvar
+hücre bölünmesi sonucu oluşur.
+ortamında 20-50 kez bölündüğü, kanserli hücrelerin
+ise uygun besin ortamında hiç durmadan bölündüğü
+gözlenmiştir. Örneğin HeLa hücreleri 1951 yılından beri laboratuvar ortamında hâlâ
+çoğalmaktadır. Çoğalmaya devam eden bu hücreler 1951 yılında kanserden hayatını
+
+18
+
+1. Ünite HÜCRE BÖLÜNMELERI
+
+kaybeden Henrietta Lacks isimli bir kadının kanserli dokusundan alınmıştır. HeLa hücreleri
+kanser araştırmalarında kullanılan ilk insan hücreleri olması açısından önemlidir.
+Kanserli hücreler, kan ve lenf dolaşımı ile bütün vücudu dolaşarak diğer dokulara
+yayılabilir. Bu hücrelerin tümör oluşturdukları ilk dokudan daha uzak dokulara sıçramasına
+yani yayılım göstermesine metastaz denir.
+Kanserli
+hastalara
+kemoterapi
+denilen ilaç tedavisi ve radyoterapi
+denilen ışın tedavisi uygulanmaktadır.
+Bu tedavi yöntemleri ile kanserli
+hücrelerin bölünmesinin önlenmesi
+amaçlanmaktadır.
+Onkoloji ise kanser bilimi demektir.
+Kanser araştırmaları, tedavi yöntemleri
+ve korunma yolları gibi konular
+onkolojinin çalışma alanlarını oluşturur.
+Görsel 1.18. Kanserli hastalara uygulanan
+kemoterapi tedavisi.
+
+1.1.3. Eşeysiz Üreme
+Üreme canlıların temel özelliklerinden biridir çünkü canlıların nesillerini devam
+ettirebilmeleri için kendilerine benzer canlılar meydana getirmeleri gerekir. Böylece kendi
+gen bileşimlerini sonraki kuşaklara aktarırlar.
+
+!
+
+Üreme ile canlılar bir yandan türün devamlılığını bir yandan da genetik
+özelliklerin yeni bireylere aktarılmasını sağlar.
+
+Üreme eşeyli ve eşeysiz üreme olmak üzere iki şekilde gerçekleşir. Eşeysiz üreme mitoz
+temeline, eşeyli üreme mayoz temeline dayanır.
+Eşeysiz üremede, üreme hücreleri yoktur. Üreme hücreleri olmadığı için döllenme olayı
+da olmaz. Bu üreme tipinin temeli mitoza dayanır. Ana birey mitozla çoğalarak yeni bireyler
+meydana getirir. Oluşan bu yeni bireyler ana bireyle aynı genetik yapıya sahiptir. Eşeysiz
+üremede kalıtsal çeşitlilik olmadığı gibi birey
+sayısı da hızlı artar. Asmadan kesilen bir dal
+toprağa dikildiğinde, bu dal parçasından yeni
+asmalar gelişir. Aynı şekilde menekşeden
+bir yaprak koparıp suda bekleterek
+köklendirdikten sonra, saksıya dikildiğinde
+yeni menekşe yaprakları çıkmaya başlar. Bu
+örneklerde olduğu gibi eşeysiz üremeyle bir
+bitki organından o bitkiyle tamamen aynı
+genetik yapıya sahip yeni bitkiler meydana Görsel 1.19. Asmadan kesilen bir dal toprağa
+getirilir.
+dikildiğinde, bu dal parçasından yeni asmalar
+gelişir.
+
+19
+
+Biyoloji 3
+
+Bu yöntemlerden özellikle tarım alanında sıkça yararlanılır. Hurma, çilek gibi bitkiler
+eşeysiz üreme yolları kullanılarak çoğaltılır. Böylece kısa sürede çok miktarda ürün elde
+edilir. Sadece bitkiler de değil diğer canlı gruplarının bazılarında da eşeysiz üreme görülür.
+Eşeysiz üreme çeşitleri:
+a) Bölünerek üreme,
+b) Tomurcuklanma ile üreme,
+c) Sporla üreme,
+d) Rejenerasyon ile üreme,
+e) Partenogenez
+f) Bitkilerde vejetatif üreme.
+a) Bölünerek Üreme
+Bir hücreli canlılarda görülen ve hızlı gerçekleşen bir üreme yöntemidir. Büyüyen ve
+olgunlaşan hücrenin ikiye bölünmesiyle gerçekleşir. Ökaryot canlılardan amip, öglena ve
+paramesyum gibi tek hücrelilerde, prokaryot canlılardan ise bakteri ve arkelerde görülür.
+Ökaryot canlılarda bölünme canlının şekline göre farklı bölgelerden başlar. Örneğin;
+paramesyum enine, öglena boyuna, belirli bir şekli olmayan amip ise her yönde bölünür.
+
+Görsel 1.20. Paramesyumda bölünme enine olur.
+
+Görsel 1.21. Öglenada bölünme boyuna olur.
+
+Görsel 1.22. Amipte bölünme her yönde olur.
+Ünite HÜCRE BÖLÜNMELERI
+
+Bakteriler prokaryot canlılardır, çekirdekleri yoktur. Bakterilerin sitoplazmalarında
+serbest hâlde bulunan DNA’ları, bölünme sırasında kendini eşleyerek miktarını iki katına
+çıkarır. Bu DNA oluşacak olan yavru hücrelere eşit olarak dağıtılır. Bu sırada hücre uzayıp
+boğumlanarak ikiye bölünür. Bu işlemin sonunda iki yavru hücre oluşur.
+
+Görsel 1.23. Bakteriler bölünerek çoğalır.
+
+Bölünerek çoğalmada oluşan yavru bireyler, birbiri ile aynı kalıtsal özellikte ve hemen
+hemen aynı büyüklüktedir. Bölünerek çoğalmada birey sayısı genelde 2, 4, 8, 16, 32… gibi
+geometrik artış gösterir.
+b)) Tomurcuklanma ile Üreme
+Tomurcuklanma ile üreme; ana bireyin vücudunda
+oluşan bir çıkıntının, başka bir deyişle tomurcuğun,
+büyüyerek ana canlıdan ayrılıp yeni bir canlı oluşturması
+veya ayrılmayıp ana canlı üzerinde yaşayarak koloniler
+meydana getirmesidir. Tomurcuklanma ile üreme maya
+mantarı gibi bazı tek hücreli canlılarda, hidra, sünger ve
+mercan gibi omurgasızlarda görülür. Tomurcuk mitoz
+bölünme ile meydana geldiğinden, tomurcuklanma ile Görsel 1.24. Maya mantarında
+oluşan bireyler ana birey ile aynı genetik yapıdadır. Ama bu tomurcuklanma.
+yavrular birbirinden ve ana bireyden farklı büyüklüklerde
+olabilir.
+c)) Sporla Üreme
+
+Mantar
+
+Karayosunu
+
+Eğreltiotu
+
+Görsel 1.25. Mantarlarda, karayosununda ve eğreltiotunda sporla üreme görülür.
+

@@ -1,0 +1,277 @@
+1. Ünite HÜCRE BÖLÜNMELERI
+
+Telofaz II
+Telofaz II, mayoz bölünmenin son evresidir. Bu evrede
+kutuplara çekilen kromozomların etrafında çekirdek zarı
+oluşur. Hücre, iki çekirdekli hâle gelir. Her bir çekirdeğin
+içerisinde tam bir haploit (n) kromozom takımı yer alır. İğ
+iplikleri kaybolur.
+Telofaz II ile eş zamanlı olarak ya da peşi sıra
+sitoplazma bölünmesi başlar. Sitoplazma hayvan
+hücrelerinde boğumlanarak, bitki hücrelerinde ara
+plak oluşturarak bölünür. Sitoplazma bölünmesinin
+tamamlanmasıyla haploit (n) kromozom sayısına sahip
+dört hücre oluşur.
+
+Görsel 1.47. Telofaz II
+
+okan okula gidiyor
+
+Uygulama Bölünmekte olan bir hücreyle ilgili hangi olayların gözlemlenmesi hücrenin
+kesinlikle mayoz geçirdiğini gösterir?
+Çözüm Mayoz’a özgü olaylar;
+• Parça değişimi,
+• Metafaz I’de homolog kromozomların hücrenin ekvatarol düzleminde
+çift sıra âlinde dizilmesi,
+• Anafaz I’de homolog kromozomların birbirinden ayrılması,
+• Telofaz I sonunda kromozom sayısı yarıya inmiş iki hücre oluşması,
+• Telofaz II sonunda kromozom sayısı yarıya inmiş dört hücrenin
+oluşması.
+Bu olaylardan herhangi birinin gözlemlenmesi hücrenin mayoz geçirdiği
+anlamına gelir.
+
+Mayoz ile diploit (2n) kromozom sayısına sahip bir hücreden dört tane haploit (n)
+kromozomlu hücre oluşur. Bu hücreler bazı değişikliklere uğrayarak üreme hücrelerine
+(gamet) dönüşür. Gametlerin bölünme yetenekleri yoktur ancak iki gametin birleşmesiyle
+oluşan zigot bölünme yeteneğine sahiptir.
+Bir türün bireyleri arasındaki genetik çeşitlilik ve tür içinde kromozom sayısının sabit
+kalması mayoz ile sağlanır.
+Mayozda, profaz I evresinde gerçekleşen parça değişimi olayı yeni gen kombinasyonlarının
+oluşmasını sağlar. Böylece genetik çeşitlilik sağlanır. Ayrıca anafaz I’de, homolog
+kromozomların birbirinden ayrılarak kutuplara rastgele çekilmesi de genetik çeşitliliğe katkı
+sağlar. Böylece mayoz sayesinde genetik bakımdan farklı olan çok sayıda gamet oluşur.
+
+33
+
+Biyoloji 3
+
+Mitoz ve Mayoz’un genel özellikleri tablodaki gibidir.
+Mitoz
+Vücut hücrelerinde görülür.
+Sonucunda iki hücre oluşur.
+Kromozom sayısı değişmez.
+Oluşan hücrelerin genetik yapısı ana
+hücreyle aynıdır.
+Çok hücrelilerde büyüme, gelişme ve
+yaraların onarılmasını sağlar.
+Kromozomlar arasında parça değişimi
+(cross-over) olmaz.
+Genetik çeşitlilik sağlanmaz.
+
+Mayoz
+Üreme ana hücrelerinde görülür.
+Sonucunda dört hücre oluşur.
+Kromozom sayısı yarıya iner.
+Oluşan hücrelerin genetik yapısı ana
+hücreden farklıdır.
+Eşeyli üreyen canlılarda eşey hücrelerinin
+(gamet) oluşmasını sağlar.
+Kromozomlar arasında parça değişimi
+(cross-over) olur.
+Genetik çeşitlilik sağlanır.
+
+Mitozun ve mayozun evrelerinde gerçekleşen olayların karşılaştırılması şemadaki gibidir.
+
+Mitoz
+
+Mayoz
+
+Görsel 1.48. Mitoz ve Mayozun karşılaştırılması.
+
+34
+
+1. Ünite HÜCRE BÖLÜNMELERI
+
+2.1.2. Eşeyli Üreme
+Eşeyli üremede dişi ve erkek olmak üzere iki ata birey vardır. Ataların her biri farklı
+genetik yapıda gametler (üreme hücresi) üretir. Dişi ve erkek bireyden gelen bu gametlerin
+birleşmesiyle oluşan üreme şekline eşeyli üreme denir.
+Bitkiler âleminden tohumlu bitkiler eşeyli üreme ile çoğalır.
+
+Çam ağacı
+
+Papatya
+
+Gül
+Görsel 1.49. Çam ağacı, papatya, gül gibi tohumlu bitkilerde eşeyli üreme görülür.
+
+Halkalı solucanlar, yumuşakçalar, eklem bacaklılar ve derisi dikenliler gibi omurgasız
+hayvanlar da eşeyli üreme ile çoğalır.
+
+Toprak solucanı
+
+Deniz kestanesi
+
+Ahtapot
+
+Görsel 1.50.
+Toprak solucanı,
+ahtopot, deniz
+kestanesi ve
+örümcek gibi
+omurgasız
+hayvanlarda eşeyli
+üreme görülür.
+
+Örümcek
+
+35
+
+Biyoloji 3
+
+Omurgalı hayvanların (balıklar, kurbağalar, sürüngenler, kuşlar ve memeliler) tamamı
+eşeyli üreme ile çoğalır.
+
+Balık
+
+Kurbağa
+
+Yılan
+
+Kuş
+
+Yarasa
+
+Görsel 1.51. Balık, kurbağa, yılan, kuş ve yarasa gibi omurgalı
+hayvanların tamamı eşeyli üreme ile çoğalır.
+
+36
+
+1. Ünite HÜCRE BÖLÜNMELERI
+
+Eşeyli üreme mayoz ve döllenme
+olmak üzere iki önemli olaya dayanır.
+Mayoz ile farklı genetik yapıda
+gametler oluşur. Döllenme ile de dişi
+ve erkek bireyden gelen gametler
+birleşerek zigotu, zigotta gelişerek yeni
+bireyi oluşturur. Oluşan bu yeni birey
+hem anneden hem babadan gelen
+genetik özellikleri taşır. Eşeyli üremede
+farklı iki ataya ait genetik özelliklerin
+yeni bireyde ortaya çıkması tür içi
+çeşitliliğe katkı sağlar. Bu da türün
+değişen çevre koşullarına uyum şansını
+artırır. Değişen çevre koşullarına uyum
+sağlayan tür varlığını sürdürür.
+
+Görsel 1.52. Eşeyli üreme mayoz ve döllenme olmak
+üzere iki önemli olaya dayanır.
+
+Görsel 1.53. Eşeyli üreme sonucu oluşan yavrular hem kardeşlerinden hem anne ve
+babalarından farklı genetik özelliklere sahiptir.
+
+Genetik çeşitliliği sağlayan eşeyli üremenin etkisiyle dünyada bulunan yaklaşık 7 milyar
+insanın, tek yumurta ikizleri hariç, hiçbiri birbirine tıpatıp benzemez. Yani eşeyli üreme
+sonucu oluşan yavrular hem kardeşlerinden hem anne ve babalarından farklı genetik
+özelliklere sahiptir.
+
+37
+
+Biyoloji 3
+
+ÖZET
+
+1.Bölüm: Mitoz ve Eşeysiz Üreme
+1.1.1. Canlılarda Hücre Bölünmesinin Gerekliliği
+Hücre bölünmesinin temel nedeni, hücrenin hacim yüzey oranının (r3 / r2)
+bozulmasıdır. Sitoplazma hücre zarına göre daha fazla büyüdüğü için hücre zarı besin
+alışverişini, atık maddelerin atılımını ve gaz alışverişini sağlamada zorlanır. Çekirdek
+de artan sitoplazma yüzünden hücreyi yönetmekte güçlük çeker. Bütün bunlar
+çekirdekten bölünme emri verilmesine neden olur ve hücre bölünür.
+Hücre bölünmesi çok hücreli canlılarda büyüme ve gelişmeyi, yaraların iyileşmesini
+ve üreme hücrelerinin oluşmasını sağlarken, tek hücreli canlılarda çoğalmayı sağlar.
+
+1.1.2. Mitoz
+Mitoz uzun bir interfaz evresi ile kısa bir bölünme evresinden (mitotik evre)
+oluşur. Bölünme evresi çekirdek bölünmesi (mitoz) ve sitoplazma bölünmesinden
+(sitokinez) meydana gelir. Çekirdek bölünmesi (mitoz) profaz, metafaz, anafaz ve
+telofaz aşamalarından oluşur.
+İnterfaz evresinde hücre büyür. Bölünme için gerekli olan protein, enzim, RNA ve
+ATP sentezi artar. DNA kendini eşler. Ribozom, mitokondri, kloroplast ve golgi aygıtı
+gibi sitoplazmik organellerin sayısı artarken hayvan hücresinde bulunan sentrozom
+organeli de kendini eşleyerek sayısını ikiye çıkarır.
+Profazda DNA’nın kendini eşlemesiyle oluşan kardeş kromatitler kısalıp kalınlaşarak
+kromozom hâlini alır. Sentrozomlar hücrenin zıt kutuplarına çekilerek aralarında iğ
+iplikleri oluşur. Oluşan iğ iplikleri kromozomlara tutunur. Profazın sonuna doğru
+çekirdek zarı, çekirdekçik ve endoplazmik retikulum erimeye başlar.
+Metafazda kromozomlar hücrenin ekvator bölgesinde bir düzlem üzerinde tek sıra
+halinde dizilir. Kromozomların mikroskopta en belirgin olarak görüldüğü evredir.
+Anafazda iğ ipliklerinin boyları kısalır. Böylece iğ ipliklerine tutulu olan kardeş
+kromatitler birbirinden ayrılarak zıt kutuplara çekilir. Anafaz sırasında hücre hafifçe
+uzar. Anafazın sonunda hücrenin her iki kutbu da eşit sayıda kromozom takımına
+sahip olur. Kromozomların kutuplara ulaşmasıyla anafaz sona erer.
+Telofazda kromozomlar hücrenin zıt kutuplarına ulaştıktan sonra iğ iplikleri
+kaybolur. Çekirdek zarı yeniden oluşur, çekirdekçik belirginleşir. Bu sırada sitoplazma
+bölünmesi (sitokinez) başlar. Sitoplazma hayvan hücrelerinde boğumlanarak bitki
+hücrelerinde orta lamel oluşturarak bölünür.
+
+38
+
+1. Ünite HÜCRE BÖLÜNMELERI
+
+1.1.3. Eşeysiz Üreme
+Eşeysiz üremenin temeli mitoza dayanır. Ana birey mitozla çoğalarak yeni bireyler
+meydana getirir. Oluşan bu yeni bireyler ana bireyle aynı genetik yapıya sahiptir. Eşeysiz
+üreme çeşitleri; bölünerek üreme, tomurcuklanma ile üreme, sporla üreme, rejenerasyon
+ile üreme, partenonenez ve bitkilerde vejetatif üreme şeklindedir. Eşeysiz üreme
+tekniklerinden olan çelikle ve soğanla üreme, tohumla üremeye göre kısa zamanda daha
+çok ve daha kaliteli bitkiler yetiştirmeyi sağladığı için tarımsal üretimde sıkça kullanılır.
+
+2.Bölüm: Mayoz ve Eşeyli Üreme
+2.1.1. Mayoz
+Mayoz ile eşeyli üreyen canlılar üreme hücrelerini (gamet) oluşturur. Mayoz
+geçirecek olan hücre interfaz denilen uzun bir hazırlık evresi geçirir. İnterfazdan
+sonra Mayoz I ve Mayoz II olarak adlandırılan iki bölünme evresi gerçekleşir. Mayoz
+tamamlandıktan sonra dört tane üreme hücresi oluşur.
+İnterfaz evresi üreme ana hücresinin bölünme için hazırlık yaptığı evredir. Bu evrede
+üreme ana hücresi büyür, bölünme için gerekli olan proteinleri üretir, DNA kendini
+eşler, ATP ve RNA sentezi artar. Ayrıca hayvan hücrelerinde sentrozom eşlenir. Tüm
+bu hazırlıklarla hücre bölünmeye hazır hâle gelir. İnterfazdan sonra sırasıyla Mayoz I
+ve Mayoz II adı verilen iki bölünme gerçekleşir.
+Mayoz I interfazdan hemen sonra başlar. Mayoz I’in evreleri; Profaz I, Metafaz I,
+Anafaz I ve Telofaz I‘dir
+Profaz I’de homolog kromozomlar yan yana gelerek kardeş olmayan kromatitleri
+arasında parça değişimi olur. Bu olaya cross-over (parça değişimi) denir. Parça
+değişimi ile genetik çeşitlilik sağlanır. Profaz I’in sonunda çekirdek zarı parçalanır,
+çekirdekçik yok olur. Sentrozomlar birbirlerinden uzaklaşarak iğ ipliklerini oluşturur.
+Kromozomlar iğ ipliklerine tutunur.
+Metafaz I’de homolog kromozomlar (tetratlar) hücrenin ekvatoral düzleminde
+düzgün bir şekilde iki sıra hâlinde dizilir. Metafaz I kromozomların en belirgin olarak
+gözlendiği evredir.
+Anafaz I’de iğ ipliklerinin kısalmasıyla homolog kromozomlar zıt kutuplara
+çekilerek birbirinden ayrılır. Böylece oluşacak hücrelerdeki kromozom sayısı yarıya
+iner. Homolog kromozomların hangisinin hangi kutba gideceğinin rastgele olması ve
+parça değişimi olayı gametlerdeki genetik çeşitliliğe katkı sağlar.
+
+39
+
+Biyoloji 3
+
+Telofaz I’de birbirinden ayrılarak kutuplara çekilmiş olan kromozomların etrafında
+çekirdek zarı oluşur. İğ iplikleri kaybolur. Bu evrenin sonuna doğru sitokinez
+(sitoplazma bölünmesi) başlar. Sitokinez mitozda olduğu gibi hayvan hücrelerinde
+boğumlanma, bitki hücrelerinde ara plak oluşumu şeklinde gerçekleşir. Mayoz I
+sonunda n kromozomlu iki hücre oluşur.
+Mayoz II ana hatlarıyla mitoza benzer. Mayoz I sonunda oluşan haploit (n)
+kromozomlu hücreler bu evrede tekrar bölünerek n kromozomlu 4 tane hücre
+oluşturur.
+Profaz II’de çekirdek zarı eriyerek kaybolur. Kromatin iplik hâlinde olan genetik
+madde kısalıp kalınlaşarak belirgin hâle gelir. Sentrozomlar zıt kutuplara giderken
+aralarında iğ iplikleri oluşmaya başlar. İğ iplikleri kromozomlara tutunur.
+Metafaz II’de kromozomlar hücrenin ekvator düzlemine dizilir. Kromozomları
+oluşturan kardeş kromatitler genetik açıdan birbirinin aynı olabileceği gibi profaz
+I’de gerçekleşen parça değişiminden dolayı birbirinden farklı da olabilir. Metafaz I’de
+kromozomlar hücrenin ekvator düzleminde iki sıra hâlinde dizilirken metafaz II’de tek
+sıra halinde dizilir.
+Anafaz II’de iğ ipliklerinin kısalmasıyla kardeş kromatitler birbirinden ayrılır ve
+zıt kutuplara doğru çekilir. Zıt kutuplara çekilen her bir kardeş kromatit kromozom
+adını alır.
+Telofaz II’de kutuplara çekilen kromozomların etrafında çekirdek zarı oluşur. İğ
+iplikleri kaybolur. Bu evrenin sonuna doğru sitokinez (sitoplazma bölünmesi) başlar.
+Sitokinez hayvan hücrelerinde boğumlanma, bitki hücrelerinde ara plak oluşumu
+şeklinde gerçekleşir. Mayoz II sonunda n kromozomlu dört hücre oluşur. Bu hücreler
+bazı değişikliklere uğrayarak üreme hücrelerine (gamet) dönüşür. Gametlerin bölünme
+yetenekleri yoktur ancak iki gametin birleşmesiyle oluşan zigot bölünme yeteneğine
+sahiptir.
+

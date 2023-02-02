@@ -1,0 +1,246 @@
+MAYOZ VE EŞEYLİ ÜREME
+
+NELER ÖĞRENECEĞİZ?
+Bu bölümü tamamladığımızda;
+1. Mayozu,
+2. Eşeyli üremeyi ve örneklerini öğreneceğiz.
+
+ANAHTAR KAVRAMLAR
+• Diploit
+• Döllenme
+• Eşeyli üreme
+• Haploit
+• Krossing over
+• Mayoz
+• Sinapsis
+• Tetrat
+
+Biyoloji 3
+
+?
+
+Hazırlık Çalışması
+
+Eşeyli üremede iki ayrı eşeyin üreme hücresi
+birleştiği halde kromozom sayısında bir artış
+olmaz. Kromozom sayısı sabit kalır. Sizce bunun
+nedeni nedir?
+
+Görsel 1.36. Eşeyli üremede
+kromozom sayısı sabit kalır
+
+Eşeyli üremeyle oluşan yavrular neden
+tamamen anneye ya da tamamen babaya
+benzemez?
+
+Görsel 1.37. Eşeyli üremeyle
+oluşan yavrular tamamen anneye
+ya da tamamen babaya benzemez
+
+28
+
+1. Ünite HÜCRE BÖLÜNMELERI
+
+2.1. Mayoz ve Eşeyli Üreme
+Eşeyli üreyen bir türün bireylerinin kromozom sayıları eğer bir anormallik
+gerçekleşmediyse hep sabittir, değişmez. Örneğin insanda 46, eğrelti otunda 500, güvercinde
+16 kromozom vardır ve bu kromozom sayıları tür içinde sabittir.
+Eşeyli üremede iki ayrı eşeyin üreme hücresinin oluşması ve döllenmesi gerekir. Üreme
+hücreleri mitoz ile oluşsaydı döllenme sonucu oluşan yavrunun kromozom sayısı, anne ve
+babanın kromozom sayısının iki katı olması gerekirdi. Ama biliyoruz ki tür içinde kromozom
+sayısı sabittir, değişmez. O zaman üreme hücrelerinin kromozom sayısının yarıya inmesi
+gerekir. Böylece döllenme ile oluşan zigotun kromozom sayısı yeniden tür içi kromozom
+sayısına ulaşır. Üreme hücrelerinin kromozom sayısının yarıya inmesi mayoz ile olur.
+Mayoz özel bir hücre bölünmesidir. Bu bölünme ile diploit (2n) sayıda kromozom içeren
+hücrelerden, haploit (n) sayıda kromozom içeren hücreler meydana gelir. Mayoz sonucu
+oluşan bu hücrelere gamet (üreme hücresi) denir. Döllenme ile dişi ve erkek bireyden
+gelen gametler (n) birleşerek diploit (2n) sayıda kromozom içeren zigot oluşur. Böylece tür
+içindeki kromozom sayısı korunmuş olur.
+
+!
+
+Eşeyli üremede tür içinde kromozom sayısının sabit tutulması mayoz
+ile sağlanır.
+
+Eşeyli üremede yavrular anneden ve babadan gelen üreme hücrelerinin (gametlerin)
+birleşmesi ile oluştuğu için hem anneden hem babadan gelen genleri taşır. Bu yüzden
+tamamen anneye ya da tamamen babaya benzemez. Biraz annenin biraz babanın özelliklerini
+taşır.
+
+2.1.1. Mayoz
+Mayoz ile eşeyli üreyen canlılar üreme hücrelerini (gamet) oluşturur. Mayoz geçirecek
+olan hücreye üreme ana hücresi denir. Üreme ana hücresi interfaz denilen uzun bir hazırlık
+evresinden sonra Mayoz I ve Mayoz II olarak adlandırılan iki bölünme evresi geçirir. Mayoz
+tamamlandıktan sonra dört tane hücre oluşur. Bu hücreler farklılaşarak üreme hücrelerine
+(gametlere) dönüşür.
+İnterfaz
+İnterfaz üreme ana hücresinin bölünme için hazırlık yaptığı evredir. Bu evrede üreme
+ana hücresi büyür, bölünme için gerekli olan proteinleri üretir, DNA kendini eşler, ATP
+ve RNA sentezi artar. Ayrıca hayvan hücrelerinde sentrozom eşlenir. Tüm bu hazırlıklarla
+hücre bölünmeye hazır hâle gelir.
+İnterfazdan sonra sırasıyla Mayoz I ve Mayoz II adı verilen iki bölünme gerçekleşir.
+Mayoz I
+İnterfazdan hemen sonra Mayoz I başlar. Mayoz I’in evreleri; Profaz I, Metafaz I,
+Anafaz I ve Telofaz I‘dir.
+
+29
+
+Biyoloji 3
+
+Profaz I
+İnterfazda kromatin iplik halinde olan genetik
+madde bu evrede kısalıp kalınlaşarak belirgin hale gelir.
+Kendini interfaz evresinde eşlemiş olan iki kromatitli
+homolog kromozomlar yan yana gelerek dört
+kromatitden oluşmuş tetrat adı verilen yapıyı oluşturur.
+Tetratların sayısı haploit (n) kromozom sayısına eşittir.
+
+!
+
+Homolog kromozom; biri anneden
+diğeri babadan gelen, aynı karakterlerle
+ilgili genleri taşıyan kromozom
+çiftleridir.
+
+Görsel 1.38. Profaz I
+Homolog kromozom
+
+Homolog kromozom
+DNA'nın
+kendini eşlemesi
+Sentromer
+
+Anneden gelen
+kromozom
+
+Babadan gelen
+kromozom
+
+Kardeş kromatit
+
+Kardeş kromatit
+Tetrat
+
+Görsel 1.39. Homolog kromozom
+
+Tetrat oluşumundan sonra homolog kromozomlar yan yana gelerek kardeş olmayan
+kromatitler birbirine temas eder. Bu olaya sinapsis, birbirine değdikleri noktaya kiazma
+denir.
+Sinapsis sırasında homolog kromozomların kardeş olmayan kromatitleri arasında parça
+değişimi olur. Bu olaya cross-over (parça değişimi) denir.
+Parça değişimi mayoz bölünmenin
+Homolog kromozomların
+en önemli olayıdır. Parça değişimi ile
+Homolog kromozomlar
+kardeş olmayan kromatitleri
+yan yana gelir.
+birbirine temas eder
+yeni gen bileşimleri meydana gelir.
+(sinapsis).
+Böylece aynı türün bireyleri arasında
+farklı özelliklerin ortaya çıkması
+sağlanır. Yani genetik çeşitlilik sağlanır.
+Profaz I’in sonunda çekirdek
+zarı parçalanır, çekirdekçik yok
+Homolog kromozomların
+olur. Sentrozomlar birbirlerinden
+kardeş olmayan kromatitleri
+Kiazma
+uzaklaşarak iğ ipliklerini oluşturur.
+arasında parça değişimi
+(cros-over) olur.
+Sitoplazmada serbest kalan tetratlar iğ
+Görsel 1.40. Parça değişimi (cros-over)
+ipliklerine tutunur.
+
+30
+
+1. Ünite HÜCRE BÖLÜNMELERI
+
+Metafaz I
+Sentrozomlar kutuplara giderek iğ ipliklerini
+uzatır. İğ iplikleri uzadıkça onlara bağlı olan homolog
+kromozomlar (tetratlar) hücrenin ekvatoral düzleminde
+düzgün bir şekilde iki sıra hâlinde dizilir. Metafaz I
+kromozomların en belirgin olarak gözlendiği evredir.
+Kromozom sayısı bilinmeyen bir hücrenin metafaz
+I’deki tetrat sayısı belirlenerek kromozom sayısı
+bulunabilir.
+
+Görsel 1.41. Metafaz I
+
+Anafaz I
+Anafaz I evresinde, tetratı oluşturan iki homolog
+kromozom iğ ipliklerinin kısalmasıyla zıt kutuplara
+çekilerek birbirinden ayrılır. Homolog kromozomların
+ayrılması, oluşacak hücrelerdeki kromozom sayısının
+yarıya inmesini sağlar.
+Ayrıca homolog kromozomların hangisinin hangi
+kutba gideceği şansa bağlı olarak gerçekleşir. Bu durum
+ve parça değişimi olayı gametlerdeki genetik çeşitliliğe
+katkı sağlar.
+
+!
+
+Görsel 1.42. Anafaz I
+
+İnsanda 23 çift homolog kromozom vardır. Bu homolog kromozomların
+Anafaz I’de şansa bağlı olarak kutuplara gitmesiyle 223=8,4 milyon kadar
+farklı genetik yapıda gametin oluşması mümkün olur.
+
+Telofaz I
+Anafaz I’de birbirinden ayrılarak kutuplara çekilmiş
+olan kromozomların etrafında telofaz I evresinde
+çekirdek zarı oluşur. Hücre, iki çekirdekli hâle gelir. Her
+bir çekirdeğin içerisinde tam bir haploit (n) kromozom
+takımı yer alır ve bu evrede iğ iplikleri kaybolur.
+Telofaz I ile eş zamanlı olarak ya da hemen ardından
+sitokinez (sitoplazma bölünmesi) meydana gelir.
+Sitokinez mitozda olduğu gibi hayvan hücrelerinde
+boğumlanma, bitki hücrelerinde ara plak oluşumu
+şeklinde gerçekleşir. Sitokinezin tamamlanmasıyla
+Görsel 1.43. Telofaz I
+mayoz I sona erer.
+Mayoz II başlamadan önce interfaz evresi görülmez. Dolayısıyla DNA kendisini
+eşlemez. Sadece sentrozomların kendini eşlemesi gerçekleşir.
+
+31
+
+Biyoloji 3
+
+Mayoz II
+Mayoz I sonunda meydana gelen haploit (n) kromozomlu hücreler mayoz II’de tekrar
+bölünür ve n kromozomlu 4 tane hücre meydana gelir. Mayoz II ana hatlarıyla mitoza benzer.
+Mayoz II’nin evreleri; Profaz II, Metafaz II, Anafaz II ve Telofaz II‘dir.
+Profaz II
+Profaz II’de çekirdek zarı eriyerek kaybolur. Kromatin
+iplik hâlinde olan genetik madde bu evrede kısalıp
+kalınlaşarak belirgin hâle gelir. Sentrozomlar zıt kutuplara
+giderken aralarında iğ iplikleri oluşmaya başlar. İğ iplikleri
+kromozomlara tutunur.
+Görsel 1.44. Profaz II
+
+Metafaz II
+Bu evrede kromozomlar hücrenin ekvator düzlemine
+tek sıra halinde dizilir. Kromozomları oluşturan kardeş
+kromatitler genetik açıdan birbirinin aynı olabileceği gibi
+profaz I’de gerçekleşen parça değişimi olayından dolayı
+birbirinden farklı da olabilir. Metafaz I’de kromozomlar
+hücrenin ekvator düzleminde iki sıra hâlinde dizilirken
+metafaz II’de tek sıra halinde dizilir.
+Görsel 1.45. Metafaz II
+
+Anafaz II
+Bu evrede iğ ipliklerinin kısalmasıyla kardeş kromatitler
+birbirinden ayrılır ve zıt kutuplara doğru çekilir. Zıt
+kutuplara çekilen her bir kardeş kromatit kromozom
+adını alır.
+
+Görsel 1.46. Anafaz II
+
+!
+32
+
+Mayoz bölünmenin anafaz I evresinde homolog kromozomlar
+birbirinden ayrılırken anafaz II evresinde kardeş kromatitler
+birbirinden ayrılır.

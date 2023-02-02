@@ -1,0 +1,185 @@
+Felis domesticus ve Felis leo
+ilk isimleri yani cins isimleri aynı
+olduğu için daha yakın akraba
+olduğu söylenebilir.
+İkinci isim (tanımlayıcı ad)
+akrabalık derecesi ile ilgili bir
+anlam taşımaz.
+
+Filogenetik (Doğal) sınıflandırma biliminin kurucusu Carolus Linnaeus (Karl Linne), türlerin
+isimlendirilmesine ilave olarak kapsamı gittikçe artan kategoriler içerisinde hiyerarşik olarak
+gruplandırmıştır. Linnaeus, canlıları sınıflandırırken tür, cins, takım, sınıf ve âlem basamaklarını
+kullanmıştır fakat ilerleyen zamanlarda bu basamaklar yetersiz kaldığı için daha sonra şube ve
+familya basamakları da ilave edilmiştir.
+Belli bir hiyerarşide düzenlenmiş olan bu basamakların ortak adı taksondur.
+Günümüzde kullanılan filogenetik sınıflandırmada canlılar tür ile başlayıp âlem ile biten
+yedi farklı grupta toplanırlar.
+Yakın akraba olan türler, aynı cins içinde gruplandırılırlar. Akraba olan cinslerin bir araya
+gelmesiyle aile (familya) meydana gelir. Benzer ailelerin birleşmesiyle takım (ordo), benzer
+takımların birleşmesiyle sınıflar (classis), benzer sınıfların birleşmesiyle şube (filum) oluşur.
+Benzer şubeler ise âlemleri (kingdom) oluşturur.
+Aynı türdeki bireylerin kromozom sayıları aynı iken, kromozomlarındaki genetik bilgiler farklıdır.
+Farklı türlere ait canlılarda aynı sayıda kromozom bulunabilir. Örneğin; hem insanda hem de moli
+balığında kromozom sayısı 46’dır. Fakat kromozom sayılarının aynı olması bu iki canlı grubunun
+benzer veya akraba olmasını gerektirmez. Çünkü önemli olan kromozom sayısı değil, kromozomlardaki
+bilgilerin nicelik ve niteliğidir.
+Aynı türdeki bireylerin protein yapıları tamamen aynı olmamakla birlikte birbirlerine, diğer türlere ait
+bireylere göre daha çok benzerler.
+Ülkemiz tür çeşitliliği bakımından oldukça zengindir. Ülkemizin bu zenginliklerine saygı göstermek ve
+korumak her vatansever bireyin sorumluluğudur.
+
+Siz de canlılar dünyasını çeşitli fotoğraflar kullanarak oluşturduğunuz bir video ile
+anlatabilirsiniz.
+
+Örnek Soru:
+
+Çözüm:
+
+Aynı türe ait farklı bireylerde,
+I. Farklı genler bulundurma
+II. Farklı proteinler sentezleme
+III. Aynı boşaltım artığı oluşturma
+özelliklerinden hangisi ya da hangileri
+görülür?
+A)Yalnız I
+C) II ve III
+
+B)Yalnız III
+D) I, II ve III
+
+Aynı türdeki bireylerin kromozom sayıları
+aynı iken, kromozomlarındaki genetik bilgiler
+farklıdır.
+Aynı türdeki bireylerde ortak gen ve
+genlerde bulunan bilgiye göre ortak proteinler
+sentezlenmekle birlikte farklı gen ve buna bağlı
+olarak farklı protein sentezi de gerçekleşir.
+Örneğin; bir insanda A kan grubu
+oluşturacak genler bulunuyorsa buna ait
+protein sentezlenir. Diğer bir bireyde B kan
+grubu oluşturacak genler bulunuyorsa buna ait
+protein sentezlenir.
+Aynı türün bireylerinde aynı boşaltım artığı
+oluşturulur.
+Cevap: D
+
+Biyoloji 2
+
+16
+
+Örnek Soru:
+
+Çözüm:
+
+Sınıflandırma cinsleri aynı olan iki farklı
+tür ile ilgili;
+
+Aynı cins içerisinde yer alan iki türün
+bulundukları takım, sınıf, familya, şube ve
+âlem de aynıdır.
+Farklı iki tür çiftleştiklerinde verimli (kısır
+olmayan) yavrular (döller) oluşturamaz.
+Ancak aynı türler kendi aralarında
+çiftleştiklerinde kısır olmayan yavrular
+oluşturabilir.
+Kromozom sayısı sınıflandırmada
+dikkate alınan bir özellik değildir. Farklı
+türlerin kromozom sayıları aynı da olabilir
+farklı da olabilir.
+
+I. Takım ve familyaları (aile) aynıdır.
+II. Aralarında verimli döl oluşturabilirler.
+III. Kromozom sayısı aynı olabilir.
+ifadelerinden hangisi ya da hangileri
+doğrudur?
+A)Yalnız I
+C) I ve II
+
+B) Yalnız III
+D) I ve III
+
+Cevap: D
+
+Örnek Soru:
+Doğal
+göre;
+
+(Filogenetik)
+
+sınıflandırmaya
+
+I. Natrix natrix
+II. Morus
+III. Ginko biloba
+IV. Planktoniella
+
+isimlerinden hangisi ya da hangileri bir
+türü ifade eder?
+A)Yalnız I
+C) I ve IV
+
+B) I ve III
+D) I, II ve III
+
+Çözüm:
+Doğal sınıflandırmada tür isimlerinde
+ikili adlandırma kullanılmaktadır.
+İkili adlandırmada ilk kelime türün ait
+olduğu cins adıdır ve büyük harfle başlar.
+İkinci kelime ise tamamlayıcı addır ve
+küçük harfle başlar. Her iki kelime de yatık
+(italik) olarak yazılır.
+Cevap: B
+
+Çözüm:
+
+Örnek Soru:
+Canlıların sınıflandırılması ile ilgili
+aşağıdaki bilgilerden hangisi yanlıştır?
+A) Aynı türe ait bireylerin cinsleri de aynıdır.
+B) Aynı tür canlıların kromozom sayıları
+aynıdır.
+C) Bir aile birden fazla takım içinde
+bulunabilir.
+D) Bir aile içinde çok sayıda tür bulunabilir.
+
+Tür > cins >aile >takım >sınıf > şube > âlem
+Herhangi bir sistematik birime birlikte
+giren canlılar, daha büyük sistematik
+birimlere de birlikte girerler.
+Aynı türe ait bireylerin cinsleri de
+aynıdır.
+Aynı türe ait olan bireylerin kromozom
+sayıları aynıdır (mutasyon hariç).
+Bir aile sadece bir takım içinde
+sınıflandırılabilir.
+Bir aile birden fazla tür içerir.
+Cevap: C
+2. BÖLÜM
+Kavramlar ve terimler
+Arkeler, bakteriler, bitkiler, hayvanlar, mantarlar, protistler, virüsler
+2. CANLI ÂLEMLERI VE ÖZELLIKLERI
+Biyolojinin alt dalı olan taksonomi (sınıflandırma), sürekli değişen ve gelişen bilim dalıdır.
+Canlılar âlemini oluşturan canlıların hücre yapısına göre iki büyük gruba ayrıldığını
+öğrenmiştik.
+Hücresel
+Yapılarına Göre
+Canlılar
+
+Ökaryot
+
+Prokaryot
+
+Bilimsel bilgi; akıl, gözlem ve deneye dayalı bilimsel bir yol izleyerek elde edilen bilgidir.
+Bilimsel bilgilerin tamamı ise bilimi oluşturur. Bilimsel bilgiler sabırla ve uzun süren çalışmalar
+neticesinde ortaya çıkmaktadır. Bilimsel bilgiler güvenilirdir. Ancak, teknoloji ve yeni bilgilerin
+ortaya konulması, eski bulguların yeniden yorumlanması gibi nedenlerle değişebilir, yenilenebilir.
+Bilimsel bilginin değişebilir olması bilimin ilerlemesini sağlayan önemli bir özelliktir. Örneğin
+mantarlar, 1960’lı yıllara kadar bitkiler alemi içinde sınıflandırılmıştır. Günümüzde elde edilen
+yeni bilgiler ışığında mantarlar ayrı bir alem olarak sınıflandırılmıştır.
+Günümüzde canlılar; bakteriler, arkeler, protistler, mantarlar, bitkiler ve hayvanlar olmak
+üzere altı farklı alemle sınıflandırılır.
+Bakteriler alemi ve arkeler alemi hücresel yapılarına göre prokaryottur. Protistler,
+mantarlar, bitkiler ve hayvanlar alemi ise ökaryot hücre yapısına sahiptir.
+2.1. CANLI ÂLEMLERI
+
